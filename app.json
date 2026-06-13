@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Wetigo",
+    "slug": "wetigo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "wetigo",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#6200FF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "online.wetigo.app"
+    },
+    "android": {
+      "package": "online.wetigo.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#6200FF"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
